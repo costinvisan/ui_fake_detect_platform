@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing%20Script&display=swap');
+
+.navbar-brand
+{
+    position: absolute;
+    top: -32%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Dancing Script", sans-serif;
+    font-weight: 1000px;
+    font-size: 145px;
+}
+.navbar {
+    
+    min-height: 70px;
+}
